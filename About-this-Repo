@@ -1,0 +1,75 @@
+
+# IT Home Lab | Linux Administration & IT Support
+
+## About This Project
+
+Welcome to my personal IT Home Lab.
+
+This repository documents my practical learning journey as I develop technical skills for entry-level IT Support and Helpdesk positions (N1/N2).
+
+My goal is to build a strong foundation in Linux administration, networking, system troubleshooting, and IT support through hands-on exercises and practical scenarios.
+
+I document each exercise, including its objectives, procedures, commands, results, troubleshooting steps, and lessons learned.
+
+## Lab Environment
+
+| Component | Description |
+|---|---|
+| Hardware | Valve Steam Deck |
+| Operating System | SteamOS |
+| Network | Wi-Fi |
+| Working Environment | Desktop Mode |
+| Documentation | GitHub Markdown |
+| Skill Level | Beginner |
+
+## Learning Objectives
+
+- Understand Linux fundamentals and system administration.
+- Practise user and permission management concepts.
+- Learn networking fundamentals and troubleshooting.
+- Understand DNS, DHCP, IP addressing, and connectivity.
+- Develop technical troubleshooting methodologies.
+- Learn basic Bash scripting.
+- Develop practical IT support and documentation skills.
+
+## Lab Categories
+
+| Category | Description |
+|---|---|
+| Linux Fundamentals | Commands, filesystem, processes |
+| User Management | Users, groups, account concepts |
+| File Permissions | Ownership and access permissions |
+| Networking | IP addressing, gateways, connectivity |
+| DNS & DHCP | Name resolution and IP configuration |
+| Troubleshooting | Identifying and investigating problems |
+| Bash Scripting | Basic automation |
+| IT Support Scenarios | Practical helpdesk exercises |
+
+## Documentation Methodology
+
+Each lab follows a consistent documentation structure:
+
+1. Objective
+2. Environment
+3. Tools and Commands
+4. Step-by-Step Procedure
+5. Expected Results
+6. Actual Results
+7. Troubleshooting
+8. What I Learned
+9. Evidence and Screenshots
+
+## Learning Approach
+
+All exercises are performed using available tools and safe environments.
+
+Because SteamOS is an immutable operating system, I prioritize built-in commands, user-space applications, and isolated environments without disabling system protections or modifying protected system files.
+
+## Current Progress
+
+This repository is continuously updated as I complete new exercises and improve my technical knowledge.
+
+## Disclaimer
+
+This is a personal learning project. Exercises are performed for educational purposes and do not represent professional production-system experience.
+
